@@ -12,4 +12,4 @@ Simulate a pizza parlor website with its main actions, i.e. viewing product info
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): dynamicity of the page
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/Pizza-parlor/).
+You can view the hosted page by clicking [here](https://pizza-parlor-js.vercel.app/).
